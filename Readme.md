@@ -111,7 +111,9 @@
 </div>
 
 ###
+
  <h3 align="left">🎓 Diplomas y Certificados</h3>
+
 ###
 
 <div align="left">
@@ -126,5 +128,9 @@
   <h4>Introduccion al framework 3.5</h4>
   <div>
     <div><img src="https://i.imgur.com/QFziJi5.jpeg" alt="Introduccion al framework 3.5" height="300" /></div>
+  </div>
+  <h4>OO-226 Analisis y Diseño Orientado a Objetos con UML</h4>
+  <div>
+    <div><img src="https://i.imgur.com/4l4OjDc.jpeg" alt="OO-226 Analisis y Diseño Orientado a Objetos con UML" height="300" /></div>
   </div>
 </div>
