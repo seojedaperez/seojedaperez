@@ -147,7 +147,7 @@
   </div>
   <h4>Oracle Tuning Database 11g</h4>
   <div>
-    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Oracle Tuning Database 11g" height="300" /></div>
+    <div><img src="https://i.imgur.com/td4gVnk.png" alt="Oracle Tuning Database 11g" height="300" /></div>
   </div>
   <h4>Oracle PL-SQL 11g</h4>
   <div>
@@ -155,15 +155,15 @@
   </div>
   <h4>Programador .Net Senior</h4>
   <div>
-    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Programador .Net Senior" height="300" /></div>
+    <div><img src="https://i.imgur.com/b3XJu5w.jpeg" alt="Programador .Net Senior" height="300" /></div>
   </div>
   <h4>SL-285-SE6 Desasrrollo de Aplicaciones para la Plataforma JAVA SE</h4>
   <div>
-    <div><img src="https://i.imgur.com/xZURT2d.png" alt="SL-285-SE6 Desasrrollo de Aplicaciones para la Plataforma JAVA SE" height="300" /></div>
+    <div><img src="https://i.imgur.com/ytYauGt.jpeg" alt="SL-285-SE6 Desasrrollo de Aplicaciones para la Plataforma JAVA SE" height="300" /></div>
   </div>
   <h4>SL-275-SE6 Lenguaje de Programacion JAVA</h4>
   <div>
-    <div><img src="https://i.imgur.com/xZURT2d.png" alt="SL-275-SE6 Lenguaje de Programacion JAVA" height="300" /></div>
+    <div><img src="https://i.imgur.com/29GDZ05.jpeg" alt="SL-275-SE6 Lenguaje de Programacion JAVA" height="300" /></div>
   </div>
   <h4>OO-226 Analisis y Diseño Orientado a Objetos con UML</h4>
   <div>
@@ -175,6 +175,6 @@
   </div>
   <h4>Tecnologias de la informacion y la comunicacion</h4>
   <div>
-    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Tecnologias de la informacion y la comunicacion" height="300" /></div>
+    <div><img src="https://i.imgur.com/vSLZMxX.png" alt="Tecnologias de la informacion y la comunicacion" height="300" /></div>
   </div>
 </div>
