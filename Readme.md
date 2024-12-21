@@ -125,16 +125,36 @@
   <div>
     <div><img src="https://i.imgur.com/jh0D0PK.png" alt="InfoSphere DataStage Server Advanced" height="300" /></div>
   </div>
-  <h4>Introduccion al framework 3.5</h4>
+  <h4>Oracle Tuning Database 11g</h4>
   <div>
-    <div><img src="https://i.imgur.com/QFziJi5.jpeg" alt="Introduccion al framework 3.5" height="300" /></div>
+    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Oracle Tuning Database 11g" height="300" /></div>
+  </div>
+  <h4>Oracle PL-SQL 11g</h4>
+  <div>
+    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Oracle PL-SQL 11g" height="300" /></div>
+  </div>
+  <h4>Programador .Net Senior</h4>
+  <div>
+    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Programador .Net Senior" height="300" /></div>
+  </div>
+  <h4>SL-285-SE6 Desasrrollo de Aplicaciones para la Plataforma JAVA SE</h4>
+  <div>
+    <div><img src="https://i.imgur.com/xZURT2d.png" alt="SL-285-SE6 Desasrrollo de Aplicaciones para la Plataforma JAVA SE" height="300" /></div>
+  </div>
+  <h4>SL-275-SE6 Lenguaje de Programacion JAVA</h4>
+  <div>
+    <div><img src="https://i.imgur.com/xZURT2d.png" alt="SL-275-SE6 Lenguaje de Programacion JAVA" height="300" /></div>
   </div>
   <h4>OO-226 Analisis y Diseño Orientado a Objetos con UML</h4>
   <div>
     <div><img src="https://i.imgur.com/4l4OjDc.jpeg" alt="OO-226 Analisis y Diseño Orientado a Objetos con UML" height="300" /></div>
   </div>
-  <h4>Oracle PL-SQL 11g</h4>
+  <h4>Introduccion al framework 3.5</h4>
   <div>
-    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Oracle PL-SQL 11g" height="300" /></div>
+    <div><img src="https://i.imgur.com/QFziJi5.jpeg" alt="Introduccion al framework 3.5" height="300" /></div>
+  </div>
+  <h4>Tecnologias de la informacion y la comunicacion</h4>
+  <div>
+    <div><img src="https://i.imgur.com/xZURT2d.png" alt="Tecnologias de la informacion y la comunicacion" height="300" /></div>
   </div>
 </div>
