@@ -117,7 +117,7 @@
 <div align="left">
   <h4>Certificado de Desarrollo Web Fullstack</h4>
   <ul>
-    <li><img src="URL_DE_LA_IMAGEN_1" alt="https://imgur.com/82KtKoy" height="100" /></li>
+    <li><img src="https://imgur.com/82KtKoy" alt="" height="100" /></li>
     <li><img src="URL_DE_LA_IMAGEN_2" alt="Certificado de React.js" height="100" /></li>
   </ul>
 
