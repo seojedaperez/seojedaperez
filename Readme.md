@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Fullstack Developer | ETL System Analist & BI | Scrum Master | Graphic IA designer</h1>
 
 ###
 
