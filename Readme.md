@@ -111,3 +111,25 @@
 </div>
 
 ###
+ <h3 align="left">🎓 Diplomas y Certificados</h3>
+###
+
+<div align="left">
+  <h4>Certificado de Desarrollo Web Fullstack</h4>
+  <ul>
+    <li><img src="URL_DE_LA_IMAGEN_1" alt="https://imgur.com/82KtKoy" height="100" /></li>
+    <li><img src="URL_DE_LA_IMAGEN_2" alt="Certificado de React.js" height="100" /></li>
+  </ul>
+
+  <h4>Bases de Datos</h4>
+  <ul>
+    <li><img src="URL_DE_LA_IMAGEN_3" alt="Certificado de MySQL" height="100" /></li>
+    <li><img src="URL_DE_LA_IMAGEN_4" alt="Certificado de MongoDB" height="100" /></li>
+  </ul>
+
+  <h4>Otros</h4>
+  <ul>
+    <li><img src="URL_DE_LA_IMAGEN_5" alt="Certificado de Scrum Master" height="100" /></li>
+    <li><img src="URL_DE_LA_IMAGEN_6" alt="Certificado de Diseño Gráfico con IA" height="100" /></li>
+  </ul>
+</div>
