@@ -116,11 +116,11 @@
 
 <div align="left">
   <h4>Capacitacion Seguridad de Aplicaciones y Desarrollo Seguro</h4>
-  <ul>
-    <li><img src="https://i.imgur.com/82KtKoy.png" alt="Certificado" height="300" /></li>
-  </ul>
+  <div>
+    <div><img src="https://i.imgur.com/82KtKoy.png" alt="Certificado" height="300" /></div>
+  </div>
   <h4>InfoSphere DataStage Server Advanced</h4>
-  <ul>
-    <li><img src="https://i.imgur.com/jh0D0PK.png" alt="Certificado" height="300" /></li>
-  </ul>
+  <div>
+    <div><img src="https://i.imgur.com/jh0D0PK.png" alt="Certificado" height="300" /></div>
+  </div>
 </div>
