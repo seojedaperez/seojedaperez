@@ -17,14 +17,6 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">● Fullstack Developer<br>● ETL System Analist & BI<br>● Scrum Master<br>● Graphic IA designer</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
