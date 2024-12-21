@@ -117,6 +117,26 @@
 ###
 
 <div align="left">
+  <h4>Microsoft Applied Skills: Creación de una solución inteligente de procesamiento de documentos con Documento de inteligencia de Azure AI</h4>
+  <div>
+    <div><img src="https://i.imgur.com/qYYqc7i.png" alt="Microsoft Applied Skills: Creación de una solución inteligente de procesamiento de documentos con Documento de inteligencia de Azure AI" height="300" /></div>
+  </div>
+  <h4>What the Hack - OpenAI powered by Microsoft</h4>
+  <div>
+    <div><img src="https://i.imgur.com/Bibwipy.png" alt="What the Hack - OpenAI powered by Microsoft" height="300" /></div>
+  </div>
+  <h4>Idea tu VideoJuego 2 - 2023</h4>
+  <div>
+    <div><img src="https://i.imgur.com/W3iVQ0e.png" alt="Idea tu VideoJuego 2 - 2023" height="300" /></div>
+  </div>
+  <h4>Idea tu VideoJuego 2 - 2022</h4>
+  <div>
+    <div><img src="https://i.imgur.com/c1TLHAO.png" alt="Idea tu VideoJuego 2 - 2022" height="300" /></div>
+  </div>
+  <h4>Idea tu VideoJuego 1 - 2022</h4>
+  <div>
+    <div><img src="https://i.imgur.com/csZMqOY.png" alt="Idea tu VideoJuego 1 - 2022" height="300" /></div>
+  </div>
   <h4>Capacitacion Seguridad de Aplicaciones y Desarrollo Seguro</h4>
   <div>
     <div><img src="https://i.imgur.com/82KtKoy.png" alt="Capacitacion Seguridad de Aplicaciones y Desarrollo Seguro" height="300" /></div>
